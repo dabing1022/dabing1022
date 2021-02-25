@@ -41,7 +41,7 @@
 
 ##### 小菜与老鸟-更新中
 
-![](https://github.com/dabing1022/dabing1022/raw/master/logo_wechat.png)
+<code><img width="60%" src="https://github.com/dabing1022/dabing1022/raw/master/logo_wechat.png"></code>
 
 ##### 历史博客-不再更新
 
