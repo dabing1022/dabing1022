@@ -11,6 +11,7 @@
 
 - 👨🏽‍💻 就职于[转转](https://www.zhuanzhuan.com/)
 - 🌱 Flutter、SwiftUI、Ruby学习中...
+- Processing、p5js爱好者
 - 💬 崇尚开源分享精神
 - 📫 Email: dabing1022@gmail.com
 
