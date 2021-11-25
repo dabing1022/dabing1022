@@ -5,13 +5,14 @@
 [![Twitter](https://img.shields.io/badge/Tweet--lightgrey?logo=twitter&style=social)](https://twitter.com/ChildhoodAndy)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:dabing1022@gmail.com)
 
+
 ** **
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 👨🏽‍💻 就职于[转转](https://www.zhuanzhuan.com/)
 - 🌱 Flutter、SwiftUI、Ruby学习中...
-- Processing、p5js爱好者
+- Processing、p5js爱好者，维护[小菜与老鸟-创意编程](https://github.com/xiaocai-laoniao)
 - 💬 崇尚开源分享精神
 - 📫 Email: dabing1022@gmail.com
 
@@ -42,9 +43,11 @@
 
 ##### 小菜与老鸟-更新中
 
-<code><img width="60%" src="https://github.com/dabing1022/dabing1022/raw/master/logo_wechat.png"></code>
+微信公众号
+<code><img width="40%" src="https://github.com/dabing1022/dabing1022/raw/master/logo_wechat.png"></code>
+Bilibili：[https://space.bilibili.com/182054750](https://space.bilibili.com/182054750)
 
 ##### 历史博客-不再更新
 
-- [childhood.logdown.com](childhood.logdown.com)
+- [childhood.logdown.com](http://childhood.logdown.com)
 - [http://dabing1022.github.io](http://dabing1022.github.io/)
