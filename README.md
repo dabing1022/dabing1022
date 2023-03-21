@@ -1,5 +1,4 @@
-## Hi, I'm ChildhoodAndy, a Developer 🚀 from China.
-
+## Hi, I'm ChildhoodAndy
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/dabing1022)
 [![Twitter](https://img.shields.io/badge/Tweet--lightgrey?logo=twitter&style=social)](https://twitter.com/ChildhoodAndy)
