@@ -10,7 +10,6 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 👨🏽‍💻 就职于[转转](https://www.zhuanzhuan.com/)
 - 🌱 Flutter、SwiftUI、Ruby学习中...
 - Processing、p5js爱好者，维护[小菜与老鸟-创意编程](https://github.com/xiaocai-laoniao)
 - 💬 崇尚开源分享精神
